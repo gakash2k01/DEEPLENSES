@@ -1,0 +1,9 @@
+junk
+.vscode
+common_task_1/*.tar
+common_task_1/dataset
+common_task_1/wandb
+specific_test_2/*.tar
+specific_test_2/lens_finding
+specific_test_2/wandb
+specific_test_2/data_fit/*.jpg

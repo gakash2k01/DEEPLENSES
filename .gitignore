@@ -7,3 +7,13 @@ specific_test_2/*.tar
 specific_test_2/lens_finding
 specific_test_2/wandb
 specific_test_2/data_fit/*.jpg
+specific_test_3/dataset
+specific_test_3/wandb
+specific_test_5/dataset
+specific_test_5/wandb
+specific_test_5/*.tar
+specific_test_6/Dataset
+specific_test_6/wandb
+specific_test_6/*.tar
+specific_test_6
+specific_test_6/Dataset.zip
